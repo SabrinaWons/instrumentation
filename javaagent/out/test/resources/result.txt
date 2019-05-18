@@ -1,0 +1,87 @@
+Magic number : CA FE BA BE
+Version : 00 00 00 34
+Constant Pool size : 00 14
+  #1 : Method ref 0A 00 04 00 10
+  #2 : String 08 00 11
+  #3 : Class 07 00 12
+  #4 : Class 07 00 13
+  #5 : Utf8 01 00 06 3C 69 6E 69 74 3E (<init>)
+  #6 : Utf8 01 00 03 28 29 56 (()V)
+  #7 : Utf8 01 00 04 43 6F 64 65 (Code)
+  #8 : Utf8 01 00 0F 4C 69 6E 65 4E 75 6D 62 65 72 54 61 62 6C 65 (LineNumberTable)
+  #9 : Utf8 01 00 12 4C 6F 63 61 6C 56 61 72 69 61 62 6C 65 54 61 62 6C 65 (LocalVariableTable)
+  #10 : Utf8 01 00 04 74 68 69 73 (this)
+  #11 : Utf8 01 00 17 4C 63 6F 6D 2F 65 78 61 6D 70 6C 65 2F 4D 79 53 65 72 76 69 63 65 3B (Lcom/example/MyService;)
+  #12 : Utf8 01 00 0A 67 65 74 4D 65 73 73 61 67 65 (getMessage)
+  #13 : Utf8 01 00 14 28 29 4C 6A 61 76 61 2F 6C 61 6E 67 2F 53 74 72 69 6E 67 3B (()Ljava/lang/String;)
+  #14 : Utf8 01 00 0A 53 6F 75 72 63 65 46 69 6C 65 (SourceFile)
+  #15 : Utf8 01 00 0E 4D 79 53 65 72 76 69 63 65 2E 6A 61 76 61 (MyService.java)
+  #16 : Name and type 0C 00 05 00 06
+  #17 : Utf8 01 00 05 68 65 6C 6C 6F (hello)
+  #18 : Utf8 01 00 15 63 6F 6D 2F 65 78 61 6D 70 6C 65 2F 4D 79 53 65 72 76 69 63 65 (com/example/MyService)
+  #19 : Utf8 01 00 10 6A 61 76 61 2F 6C 61 6E 67 2F 4F 62 6A 65 63 74 (java/lang/Object)
+Access flags : 00 21
+This class : 00 03
+Super class : 00 04
+Interfaces count : 00 00
+Fields count : 00 00
+Methods count : 00 02
+  Access flags : 00 01
+  Name index : 00 05
+  Type index : 00 06
+  Attribute count : 00 01
+    Name index : 00 07 (Code)
+    Attribute length : 00 00 00 2F
+    max_stack : 00 01
+    max_locals : 00 01
+    code_length : 00 00 00 05
+    code : 2A B7 00 01 B1
+      2A -> load 0
+      B7 -> invokespecial 00 01
+      B1 -> return
+    exception_table_length : 00 00
+    attributes_count : 00 02
+    Name index : 00 08 (LineNumberTable)
+    Attribute length : 00 00 00 06
+    line_number_table_length : 00 01
+    start_pc : 00 00
+    line_number : 00 03
+    Name index : 00 09 (LocalVariableTable)
+    Attribute length : 00 00 00 0C
+    local_variable_table_length : 00 01
+    start_pc : 00 00
+    length : 00 05
+    name_index : 00 0A
+    descriptor_index : 00 0B
+    index : 00 00
+  Access flags : 00 01
+  Name index : 00 0C
+  Type index : 00 0D
+  Attribute count : 00 01
+    Name index : 00 07 (Code)
+    Attribute length : 00 00 00 2D
+    max_stack : 00 01
+    max_locals : 00 01
+    code_length : 00 00 00 03
+    code : 12 02 B0
+      12 -> ldc 02
+      B0 -> areturn
+    exception_table_length : 00 00
+    attributes_count : 00 02
+    Name index : 00 08 (LineNumberTable)
+    Attribute length : 00 00 00 06
+    line_number_table_length : 00 01
+    start_pc : 00 00
+    line_number : 00 06
+    Name index : 00 09 (LocalVariableTable)
+    Attribute length : 00 00 00 0C
+    local_variable_table_length : 00 01
+    start_pc : 00 00
+    length : 00 03
+    name_index : 00 0A
+    descriptor_index : 00 0B
+    index : 00 00
+Attributes count : 00 01
+    Name index : 00 0E (SourceFile)
+    Attribute length : 00 00 00 02
+    sourcefile_index : 00 0F
